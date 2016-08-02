@@ -31,6 +31,7 @@
 
 # Game Environment
 - [ ] Parallax scrolling on the ceiling
+- [ ] Collectable items
 - [ ] ...
 
 # Engine Optimizations for the Arduboy
